@@ -2,8 +2,6 @@
 
 Aplicativo Android de **alerta de alagamento para moradores de vielas** em comunidades urbanas. O app mostra o nível da água medido por sensores instalados na viela, avisa quando a água sobe e permite que cada família cadastre sua casa e confirme que está bem durante um alerta.
 
-> Protótipo acadêmico (Desafio CitizenTech). Os sensores e as leituras são **simulados** dentro do próprio app. Não há integração real com sensores, Defesa Civil ou qualquer serviço público.
-
 ## Equipe Sentinela
 
 | Nome completo | RM |
